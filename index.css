@@ -1,9 +1,11 @@
 div{ 
-  /*color: red;*/
-  width:700px;
-  height:700px; 
-  border:solid 1px;
-  border-radius:20px;
+  margin-left:150px; 
+  margin-right:50px;
+  width:1080px;
+  height:770px; 
+  border:solid 3px;
+  border-radius:1px;
+  background: violet;
 } 
 body{
 background-color:red;
